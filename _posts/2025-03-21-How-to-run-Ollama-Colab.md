@@ -1,5 +1,5 @@
 ---
-title: How to Run Ollama on Google Colab: A Quick Guide
+title: How to Run Ollama on Google Colab - A Quick Guide
 date: 2025-03-21 23:30:00 -0300
 categories: [Ollama, AI, HowTo]
 tags: [ai, ollama, Howto]   # TAG names should always be lowercase

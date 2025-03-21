@@ -1,8 +1,8 @@
 ---
-title: How to Run Ollama on Docker: A Quick Guide
+title: How to Run Ollama on Docker - A Quick Guide
 date: 2025-03-13 23:30:00 -0300
 categories: [Docker, Ollama, AI, HowTo]
-tags: [ai, docker, ollama, Howto]   # TAG names should always be lowercase
+tags: [ai, docker, ollama, howto]   # TAG names should always be lowercase
 pin: true
 ---
 
