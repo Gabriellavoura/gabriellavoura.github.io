@@ -2,7 +2,7 @@
 title: How to Install CUDA on WSL2
 date: 2025-03-20 23:30:00 -0300
 categories: [WSL2, CUDA, HowTo]
-tags: [wsl2,howto,cuda]   # TAG names should always be lowercase
+tags: [wsl2]   # TAG names should always be lowercase
 pin: true
 ---
 
@@ -19,9 +19,10 @@ The firsts steps envolve ensuring you have a WSL instance running with a glibc-b
 > Just a side note: By default, when you install the CUDA drivers on a windows machine, they also include a fully supported driver for WSL2. Therefore, running precompiled CUDA applications shouldn't be a problem. However, if you need to compile a CUDA application targeting a Linux or WSL2 backend, you must follow these steps to install the latest CUDA Toolkit for x86 Linux.
 
 Now, let's get started.
+
 ## Get started with NVIDIA CUDA
 
-Updated instructions can be found in the [NVIDIA CUDA on WSL User Guide](## Get started with NVIDIA CUDA), but I will summarize the steps in this article.
+Updated instructions can be found in the [NVIDIA CUDA on WSL User Guide](https://docs.nvidia.com/cuda/wsl-user-guide/index.html), but I will summarize the steps in this article.
 
 ## Step 1 - Check for WSL updates
 
