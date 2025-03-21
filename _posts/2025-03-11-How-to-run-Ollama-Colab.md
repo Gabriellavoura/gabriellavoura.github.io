@@ -1,6 +1,6 @@
 ---
 title: How to Run Ollama on Google Colab - A Quick Guide
-date: 2025-03-21 23:30:00 -0300
+date: 2025-03-11 23:30:00 -0300
 categories: [Ollama, AI, HowTo]
 tags: [ai, ollama, howto]   # TAG names should always be lowercase
 pin: true
@@ -40,3 +40,4 @@ It should return the name, ID, size and last modified date.
 If it is all good, now you should have an running ollama server with llama3.2 model with 3b parameters prepared to be used.
 
 A note from the past: you're welcome Gabriel ;)
+2025-03-21-How-to-run-Ollama-Colab
