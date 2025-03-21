@@ -2,7 +2,7 @@
 title: How to Install CUDA on WSL2
 date: 2025-03-20 23:30:00 -0300
 categories: [WSL2, CUDA, HowTo]
-tags: [wsl2]   # TAG names should always be lowercase
+tags: [wsl2, howto]   # TAG names should always be lowercase
 pin: true
 ---
 
